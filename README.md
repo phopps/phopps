@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- # phopps -->
 
-<!--
-**phopps/phopps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 **Game Jam Enthusiast**
+View my portfolio on [phopps.itch.io](https://phopps.itch.io/)
+<!-- Kaiju Sweeper, Monsters vs Robots, Mauve: Prime Directive, Proto-Jumper -->
+<!-- Operation Jungle Knight (upload to itch?) -->
 
-Here are some ideas to get you started:
+🕸️ **Web Developer**
+Completed full-stack web development bootcamp through Michigan State University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Favorite Tools**
+*Visual Studio Code* IDE for C# / .NET, HTML / CSS / JS, etc.
+*Godot* game engine for 2D and 3D projects (learning Unreal Engine)
+*Aseprite* image editor for drawing pixel art assets (learning animation)
+*Git Bash* shell for a Unix-like Git command line interface on Windows
+
+📫 **Contact Info**
+LinkedIn: [linkedin.com/in/phopps](https://www.linkedin.com/in/phopps/)
+<!-- Email: pathopps@gmail.com (primary or alternative account?) -->
+<!-- Discord: phopps#1394 (primary or alternative account?)  -->
+<!-- Do not include Twitch, Steam, Spotify, Facebook, Instagram, WhatsApp, etc. -->
