@@ -1,6 +1,7 @@
 
 👾 **Game and Web Developer** 🕸️
 
+<!--
 - Completed full-stack web development bootcamp through Michigan State University
 - Fully capable in C# game engines (Godot and Unity)
 - Skilled in Unix command line operations for both version-control and server operations
@@ -12,3 +13,4 @@
 - Proto-Jumper ([Itch](https://thaewyn.itch.io/proto-jumper), [GitHub](https://github.com/phopps/prototypes))
 - Itch ([phopps.itch.io](https://phopps.itch.io/))
 - LinkedIn ([linkedin.com/in/phopps](https://www.linkedin.com/in/phopps/))
+-->
