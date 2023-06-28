@@ -1,4 +1,14 @@
 
+1. ![banner-nabla-plain](/assets/banner-nabla-plain.png)
+2. ![banner-nabla](/assets/banner-nabla.png)
+3. ![banner-pixy](/assets/banner-pixy.png)
+4. ![banner-press-start-p2](/assets/banner-press-start-p2.png)
+5. ![banner-public-pixel](/assets/banner-public-pixel.png)
+6. ![banner-punc-bold-plain](/assets/banner-punc-bold-plain.png)
+7. ![banner-punc-bold](/assets/banner-punc-bold.png)
+8. ![banner-punc-regular-plain](/assets/banner-nabla.png)
+9. ![banner-punc-regular](/assets/banner-nabla.png)
+
 👾 **Game and Web Developer** 🕸️
 
 <!--
